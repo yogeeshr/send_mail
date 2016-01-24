@@ -1,3 +1,3 @@
-#1. Using Java 1.8
-#2. Download JavaMail (Version 1.2) & JAF (Version 1.1.1) & add as dependency jars
-#3. 
+#1. Using Java 1.8.
+#2. Download JavaMail (Version 1.2) & JAF (Version 1.1.1) & add as dependency jars.
+#3. If you are using Gmail 2 step verification - generate and use app specific passwords.
